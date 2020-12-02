@@ -82,7 +82,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
-
+  programmer_hash["Copper Coop"] = "GRACK"
+  return programmer_hash
     
 end
 
